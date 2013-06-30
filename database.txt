@@ -1,0 +1,15 @@
+---dosyalar-kişi---
+dosya_id
+dosya_adi
+dosya_aciklama
+degistirme_tar
+dosya_boyutu
+dosya_type
+dosya_yolu
+sahibi
+
+---klasör bağlantısı---
+
+relation_id
+klasor_id
+dosya_id
